@@ -1,3 +1,4 @@
-def main():
-    print("Hello")
-main()
+def main(times):
+    for _ in range(times)
+        print("Hello")
+main(int(input()))
